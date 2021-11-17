@@ -10,9 +10,9 @@ const topics = ['win a lottery', 'go to a trave', 'buy a house', 'get sick', 'bu
 const sentenceBuilder = () => {
     const selectedSubject = subject[selectRandomIndex(subject.length)];
     const selectedTimeHorizon = timeHorizon[selectRandomIndex(timeHorizon.length)];
-    const selectedTopic = topics[selectRandomIndex(topic.length)];
+    const selectedTopic = topics[selectRandomIndex(topics.length)];
 
-    return `${selectedSubject} will ${selectedTopic} ${timeHorizon}, believe me dear!`;
+    return `${selectedSubject} will ${selectedTopic} ${selectedTimeHorizon}, believe me dear!`;
 };
 
 // Run the script.
