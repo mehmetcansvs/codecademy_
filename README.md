@@ -2,4 +2,5 @@
 This repo contains projects and portfolio that I made while following Codecademy full stack engineer course.
 
 ## Contents
-+ Mixed Messages Portfolio
++ Mixed Messages Portfolio Project - JS
++ Fashion Blog Portfolio Project - HTML 
