@@ -1,0 +1,23 @@
+* {
+    font-family: Helvetica;
+}
+
+header {
+    background-image: url("./img/pattern.webp");
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+.brushes h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+}
+
+.article-bold-text {
+    font-weight: bold;
+    color: blue;
+}
