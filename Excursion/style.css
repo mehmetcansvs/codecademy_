@@ -1,0 +1,19 @@
+* {
+    background-color: Black;
+    font-family: Verdana;
+}
+
+.header {
+    text-align: center;
+}
+
+.header h1 {
+    font-size: 50px;
+    color: white;
+}
+
+.header h2 {
+    color: aquamarine;
+    font-size: 16px;
+    text-decoration: underline;
+}
